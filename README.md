@@ -13,7 +13,7 @@
 
 -------------------------------------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacobsenf&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacobsenf&show_icons=true&theme=dark)
 
 -------------------------------------------
 
