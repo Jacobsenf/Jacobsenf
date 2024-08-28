@@ -14,10 +14,8 @@ I am 17 years old and a beginner developer with a passion for technology and pro
 
 ------------------------------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacobsenf)](https://github.com/Jacobsenf/github-readme-stats)
--------------------------------------------
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacobsenf&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacobsenf)](https://github.com/Jacobsenf/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacobsenf&show_icons=true&theme=dark)
 
 -------------------------------------------
 
