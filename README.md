@@ -10,7 +10,7 @@
 
 ### About Me:
 
-I am 17 years old and a beginner developer with a passion for technology and programming. Currently, I am focused on learning and improving my skills in software development, with a special interest in web technologies and app creation. I am always looking for new challenges and opportunities to expand my knowledge and contribute to innovative projects. My goal is to grow in the development field, gaining experience and acquiring new skills to become a well-rounded professional in the future.
+I am 18 years old and a beginner developer with a passion for technology and programming. Currently, I am focused on learning and improving my skills in software development, with a special interest in web technologies and app creation. I am always looking for new challenges and opportunities to expand my knowledge and contribute to innovative projects. My goal is to grow in the development field, gaining experience and acquiring new skills to become a well-rounded professional in the future.
 
 ------------------------------------------
 
